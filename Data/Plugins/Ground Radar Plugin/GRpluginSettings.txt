@@ -159,6 +159,14 @@ Window_APP=1,1,1500,300,250,250
 
 Shortcut_Map_Target=8,DISPLAY\XC_FREQ
 
+System_Alert_RIM_Label=INCUR
+System_Alert_APW_Label=AREA-PROXIMITY
+System_Alert_APM_Label=ILS
+System_Alert_ICM_Info_Label=SSR
+System_Alert_Rwy_Closed_Label=RWY-CLSD
+System_Alert_RVM_Label=TWY
+System_Alert_Twy_Closed_Label=TWY-CLSD
+
 [VHHX]
 Airport_Runway_Area=13:N022.19.31.968:E114.11.34.081:N022.18.15.255:E114.12.59.606:N022.18.13.261:E114.12.57.745:N022.19.30.280:E114.11.31.990
 Airport_Runway_Buffer=13:N022.19.33.737:E114.11.34.830:N022.18.15.142:E114.13.02.234:N022.18.10.266:E114.12.57.913:N022.19.29.421:E114.11.29.995
