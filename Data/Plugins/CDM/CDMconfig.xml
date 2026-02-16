@@ -1,22 +1,26 @@
 <?xml version="1.0"?>
 <CDM>
-	<rate ops="72" />
-	<rateLvo ops="72" />
-	<sidInterval url:"https://vathk.com/cdm/sid.txt" />
+	<rate ops="40" />
+	<rateLvo ops="40" />
+	<pilotTobt mode="true"/>
+	<autoAtot mode="false" />
+	<sidInterval url="https://raw.githubusercontent.com/vatsimhk/CDM/refs/heads/main/sid.txt" />
 	<expiredCtot time="25" />
 	<realMode mode="true" />
 	<invalidateAtTsat mode="true" />
-	<Rates url="https://vathk.com/cdm/rate.txt" />
-	<Taxizones url="https://vathk.com/cdm/taxizones.txt" />
-	<Ctot url="https://vathk.com/cdm/ctot.txt" />
-	<DefaultTaxiTime minutes="10" />
+	<invalidateAtTobt mode="false" />
+	<Rates url="https://raw.githubusercontent.com/vatsimhk/CDM/refs/heads/main/rate.txt" />
+	<Taxizones url="https://raw.githubusercontent.com/vatsimhk/CDM/refs/heads/main/taxizones.txt" />
+	<Ctot url="https://raw.githubusercontent.com/vatsimhk/CDM/refs/heads/main/ctot.txt" />
+	<DefaultTaxiTime minutes="15" />
 	<RefreshTime seconds="10" />
 	<Debug mode="false" />
-	<FlowRestrictions url="https://vathk.com/api/cdm" />
+	<FlowRestrictions url="" />
 	<vdgsFileType type="3"/>
 	<ftpHost host="" />
 	<ftpUser user="" />
 	<ftpPassword password="" />
-	<Server mode="false" />
+	<Server mode="true" />
 	<Su_Wait mode="false" />
+	<sftpConnection mode="false" />
 </CDM>
