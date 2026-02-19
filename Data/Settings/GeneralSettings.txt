@@ -300,5 +300,5 @@ HKCP:CJSLabelShowWhenTracked:0
 HKCP:PlaneIconScale:1.000000
 CDM Plugin:CDMWindowPositionX:40
 CDM Plugin:CDMWindowPositionY:560
-CDM Plugin:CDMMinimized:0
+CDM Plugin:CDMMinimized:1
 END
