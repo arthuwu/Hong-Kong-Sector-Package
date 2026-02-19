@@ -40,13 +40,8 @@ Settings	airways	\Data\NAVDATA\airway.txt
 Settings	SettingsfileVCCS	\Data\Settings\VCCS.txt
 Settings	AselKey	5111808
 Settings	FreqKey	3604480
-ASRFastKeys	1	\Data\ASR\Hong Kong ACC.asr
-ASRFastKeys	2	\Data\ASR\Hong Kong TMA.asr
-ASRFastKeys	3	\Data\ASR\Hong Kong GMC.asr
-ASRFastKeys	4	\Data\ASR\Kai Tak GMC.asr
-ASRFastKeys	5	\Data\ASR\Macau GMC.asr
-ASRFastKeys	6	\Data\ASR\Hong Kong Zone.asr
-ASRFastKeys	7	\Data\ASR\Kai Tak TMA.asr
+ASRFastKeys	1	\Data\ASR\Kai Tak TMA.asr
+ASRFastKeys	2	\Data\ASR\Kai Tak GMC.asr
 Plugins	Plugin0	\Data\Plugins\TopSky\TopSky.dll
 Plugins	Plugin2	\Data\Plugins\Radio Direction Finder\RDFPlugin.dll
 Plugins	Plugin3	\Data\Plugins\Discord Euroscope\DiscordEuroscope.dll
@@ -62,12 +57,7 @@ Settings	sector	\Data\Sector\Hong-Kong-Sector-File.sct
 Plugins	Plugin0Display1	SMR radar display
 Settings	SettingsfilePLUGINS	\Data\Settings\GeneralSettings.txt
 Plugins	Plugin2Display1	SMR radar display
-RecentFiles	Recent1	\Data\ASR\Hong Kong ACC.asr
-RecentFiles	Recent2	\Data\ASR\Hong Kong GMC.asr
-RecentFiles	Recent3	\Data\ASR\Hong Kong TMA.asr
-RecentFiles	Recent4	\Data\ASR\Kai Tak GMC.asr
-RecentFiles	Recent5	\Data\ASR\Macau GMC.asr
-RecentFiles	Recent6	\Data\ASR\Hong Kong Zone.asr
+RecentFiles	Recent1	\Data\ASR\Kai Tak TMA.asr
 LastSession	connecttype	0
 LastSession	tovatsim	1
 LastSession	proxyserver	localhost
