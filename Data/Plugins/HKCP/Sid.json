@@ -209,10 +209,10 @@
             "PECAN3X/07R",
             "SOSLU1T/07C",
             "PECAN1Y/07C",
-            "PECAN1Z/07L"
+            "PECAN2Z/07L"
           ],
           "sid_25": ["PECAN1D/25C", "PECAN2B/25L", "PECAN2F/25R"],
-          "sid_noise": ["PECAN1Y/07C", "PECAN1Z/07L", "PECAN3X/07R"]
+          "sid_noise": ["PECAN1Y/07C", "PECAN2Z/07L", "PECAN3X/07R"]
         },
         {
           "destinations": ["ZJHK", "ZJQH"],
