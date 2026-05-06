@@ -132,8 +132,8 @@
         },
         {
           "destinations": ["ZGSZ"],
-          "allowed_fls": ["59"],
-          "FLAS": "5900ft (1800m)"
+          "allowed_fls": ["69", "79"],
+          "FLAS": "6900ft (2100m), 7900ft (2400m)"
         },
         {
           "airways": ["A461 SHL W22 TEPID W24 OSNOV G586"],
@@ -285,8 +285,8 @@
         },
         {
           "destinations": ["ZGSZ"],
-          "allowed_fls": ["59"],
-          "FLAS": "5900ft (1800m)"
+          "allowed_fls": ["69", "79"],
+          "FLAS": "6900ft (2100m), 7900ft (2400m)"
         },
         {
           "airways": ["A461 SHL W22 TEPID W24 OSNOV G586"],
