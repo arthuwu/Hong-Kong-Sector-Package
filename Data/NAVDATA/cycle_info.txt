@@ -1,6 +1,6 @@
-AIRAC cycle    : 2605
+AIRAC cycle    : 2607
 Version        : 1
-Valid (from/to): 14/MAY/2026 - 11/JUN/2026
+Valid (from/to): 09/JUL/2026 - 06/AUG/2026
 
 Forum          : http://forum.navigraph.com
 
@@ -14,5 +14,5 @@ world navigation as it is unlawful and unsafe to do so.
 This file is intended for Navigraph support use only and may not be changed, read or
 further processed by any 3rd party developer/addon.
 
-Parser-Version : DFD v1.0 26.0416 (c) Richard Stefan
-Files parsed on: 07/05/2026
+Parser-Version : DFD v1.0 26.0513 (c) Richard Stefan
+Files parsed on: 30/06/2026
