@@ -3,20 +3,6 @@ DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:Hong-Kong-Sector-File.sct
-ARTCC boundary:APPDEP:
-ARTCC boundary:TDC:
-ARTCC boundary:TDE:
-ARTCC boundary:TME:
-ARTCC boundary:TMS:
-ARTCC boundary:TMW:
-ARTCC boundary:TRC:
-ARTCC boundary:TRD:
-ARTCC boundary:TRE:
-ARTCC boundary:TRK:
-ARTCC boundary:TRS:
-ARTCC boundary:TRV:
-ARTCC boundary:TRW:
-ARTCC boundary:TRZ:
 Geo:VHHK Landmark Hong Kong Coastline:
 Geo:VHHK_MRVA:
 High airways:J101:line
