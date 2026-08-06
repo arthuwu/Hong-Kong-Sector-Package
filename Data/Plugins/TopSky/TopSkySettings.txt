@@ -47,6 +47,8 @@ System_TrueColorMode=1
 
 RwyAppLines_Auto=0
 
+MSAW_VFR=0
+
 //Airspace
 Airspace_No_DUPE_Codes=2000,2200,1200,1000
 
@@ -93,6 +95,7 @@ Shortcut_Map_Target=5,WPT LBL CSTR\16 VMMC
 Shortcut_Map_Target=6,WPT LBL CSTR\VFR
 Shortcut_Map_Target=7,VHHX\Kai Tak (Shortcut)
 Shortcut_Map_Target=8,WPT LBL CSTR\SPLIT FREQ
+
 [_CTR]
 Window_CPDLC_Current=1,1510,630
 Window_CPDLC_Setting=1,1300,710
