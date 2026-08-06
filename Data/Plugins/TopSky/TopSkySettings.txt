@@ -28,11 +28,12 @@ Color_QDM=242,255,105
 Color_SEP_Tool_1=41,245,41
 
 Color_Heading_Vector=40,255,255
-Color_Information_FL=196,188,216
-Color_System_Calculated_TOC=196,188,216
-Color_System_Calculated_TOD=196,188,216
-Color_Flight_Leg=196,188,216
+Color_Information_FL=216,185,158
+Color_System_Calculated_TOC=216,185,158
+Color_System_Calculated_TOD=216,185,158
+Color_Flight_Leg=216,185,158
 FlightLeg_LineWidth=0
+Color_Track_Highlight=255,255,255
 
 Color_Selected=255,255,255
 Color_Warning=255,255,0
