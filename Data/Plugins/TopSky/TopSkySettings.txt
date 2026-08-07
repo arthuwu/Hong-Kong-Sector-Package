@@ -28,11 +28,12 @@ Color_QDM=242,255,105
 Color_SEP_Tool_1=41,245,41
 
 Color_Heading_Vector=40,255,255
-Color_Information_FL=196,188,216
-Color_System_Calculated_TOC=196,188,216
-Color_System_Calculated_TOD=196,188,216
-Color_Flight_Leg=196,188,216
+Color_Information_FL=216,185,158
+Color_System_Calculated_TOC=216,185,158
+Color_System_Calculated_TOD=216,185,158
+Color_Flight_Leg=216,185,158
 FlightLeg_LineWidth=0
+Color_Track_Highlight=255,255,255
 
 Color_Selected=255,255,255
 Color_Warning=255,255,0
@@ -45,6 +46,8 @@ Color_Active_Map_Type_1=127,76,76 //Danger areas
 System_TrueColorMode=1
 
 RwyAppLines_Auto=0
+
+MSAW_VFR=0
 
 //Airspace
 Airspace_No_DUPE_Codes=2000,2200,1200,1000
@@ -84,14 +87,15 @@ WXR_Echo_dBZ_Med=40
 WXR_Echo_dBZ_Lo=30
 
 //Toggle maps shortcut
-Shortcut_Map_Target=1,WPT LBLS\TR_TMC
-Shortcut_Map_Target=2,WPT LBLS\07 APP/DEP
-Shortcut_Map_Target=3,WPT LBLS\25 APP/DEP
-Shortcut_Map_Target=4,WPT LBLS\34 VMMC
-Shortcut_Map_Target=5,WPT LBLS\16 VMMC
-Shortcut_Map_Target=6,WPT LBLS\VFR
+Shortcut_Map_Target=1,WPT LBL CSTR\TR_TMC
+Shortcut_Map_Target=2,WPT LBL CSTR\07 APP/DEP
+Shortcut_Map_Target=3,WPT LBL CSTR\25 APP/DEP
+Shortcut_Map_Target=4,WPT LBL CSTR\34 VMMC
+Shortcut_Map_Target=5,WPT LBL CSTR\16 VMMC
+Shortcut_Map_Target=6,WPT LBL CSTR\VFR
 Shortcut_Map_Target=7,VHHX\Kai Tak (Shortcut)
-Shortcut_Map_Target=8,WPT LBLS\SPLIT FREQ
+Shortcut_Map_Target=8,WPT LBL CSTR\SPLIT FREQ
+
 [_CTR]
 Window_CPDLC_Current=1,1510,630
 Window_CPDLC_Setting=1,1300,710
