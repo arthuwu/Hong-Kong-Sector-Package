@@ -3060,7 +3060,6 @@ SCTFILEDATA/MONO:GEO\UCARA_bdry
 // TR/TMC/APP FREQ SPLIT ==================================================================================================================
 MAP:FREQ SPLIT
 FOLDER:WPT LBL CSTR
-ASRDATA:IFR
 COLOR:VHHHCSTR
 FONTSIZE:=:9
 TEXTALIGN:CC
