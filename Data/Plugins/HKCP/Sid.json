@@ -20,13 +20,18 @@
           "FLAS": "Odd FLs at or below FL270"
         },
         {
+          "airways": "V621 ELATO G581 DADON M750",
+          "allowed_fls": ["0"],
+          "FLAS": "Unavailable; Re-route via V631 ENVAR M750"
+        },
+        {
           "direction": "ODD",
           "max_fl": 270,
           "airways": "V621 ELATO G581",
           "FLAS": "Odd FLs at or below FL270"
         }
       ],
-      "V631": [
+      "V631": [ 
         {
           "sid_07": [
             "DUMEP1T/07C",
@@ -147,8 +152,9 @@
             "A461 LIG",
             "A461 OBLIK",
             "A461 WXI",
-            "A461 IDUMA W22 SHL G471 PLT",
-            "A461 SHL G471 PLT",
+            "A461 IDUMA W22 SHL G471",
+            "A461 SHL G471",
+            "A461 SHL W26 UPRIK W41",
             "A461 BUBDA W56",
             "A461 MEXON"
           ],
@@ -300,8 +306,9 @@
             "A461 LIG",
             "A461 OBLIK",
             "A461 WXI",
-            "A461 IDUMA W22 SHL G471 PLT",
-            "A461 SHL G471 PLT",
+            "A461 IDUMA W22 SHL G471",
+            "A461 SHL G471",
+            "A461 SHL W26 UPRIK W41",
             "A461 BUBDA W56"
           ],
           "allowed_fls": ["291", "311", "331", "351", "371", "391", "411"],
@@ -339,6 +346,11 @@
           "max_fl": 270,
           "airways": "ELATO A1",
           "FLAS": "Odd FLs at or below FL270"
+        },
+        {
+          "airways": "ELATO G581 DADON M750",
+          "allowed_fls": ["0"],
+          "FLAS": "Unavailable; Re-route via V631 ENVAR M750"
         },
         {
           "direction": "ODD",
@@ -606,6 +618,11 @@
           "max_fl": 270,
           "airways": "V621 ELATO A1",
           "FLAS": "Odd FLs at or below FL270"
+        },
+        {
+          "airways": "V621 ELATO G581 DADON M750",
+          "allowed_fls": ["0"],
+          "FLAS": "Unavailable; Re-route via V631 ENVAR M750"
         },
         {
           "direction": "ODD",
