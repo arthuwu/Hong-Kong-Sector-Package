@@ -20,14 +20,9 @@
           "FLAS": "Odd FLs at or below FL270"
         },
         {
-          "airways": "V621 ELATO G581 DADON M750",
-          "allowed_fls": ["0"],
-          "FLAS": "Unavailable; Re-route via V631 ENVAR M750"
-        },
-        {
           "direction": "ODD",
           "max_fl": 270,
-          "airways": "V621 ELATO G581",
+          "airways": ["V621 ELATO G581 PORCH", "V621 ELATO G581 HCN"],
           "FLAS": "Odd FLs at or below FL270"
         }
       ],
@@ -348,14 +343,9 @@
           "FLAS": "Odd FLs at or below FL270"
         },
         {
-          "airways": "ELATO G581 DADON M750",
-          "allowed_fls": ["0"],
-          "FLAS": "Unavailable; Re-route via V631 ENVAR M750"
-        },
-        {
           "direction": "ODD",
           "max_fl": 270,
-          "airways": "ELATO G581",
+          "airways": ["ELATO G581 PORCH", "ELATO G581 HCN"],
           "FLAS": "Odd FLs at or below FL270"
         }
       ],
@@ -620,14 +610,9 @@
           "FLAS": "Odd FLs at or below FL270"
         },
         {
-          "airways": "V621 ELATO G581 DADON M750",
-          "allowed_fls": ["0"],
-          "FLAS": "Unavailable; Re-route via V631 ENVAR M750"
-        },
-        {
           "direction": "ODD",
           "max_fl": 270,
-          "airways": "V621 ELATO G581",
+          "airways": ["V621 ELATO G581 PORCH", "V621 ELATO G581 HCN"],
           "FLAS": "Odd FLs at or below FL270"
         }
       ],
